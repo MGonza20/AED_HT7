@@ -1,6 +1,6 @@
-/**
- * @reference Alonso, M., 2021. ArbolBinarioBusqueda. [online] GitHub. Available at: <https://github.com/malonso-gt/ArbolBinarioBusqueda>
- */
+
+ 
+ 
 
 import java.io.BufferedReader;
 import java.io.File;
